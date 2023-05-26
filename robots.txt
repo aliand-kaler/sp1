@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://aliand-kaler.github.io/sp1/sitemap.xml
